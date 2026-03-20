@@ -552,7 +552,7 @@ var vn = {
         name: "ethereum-mainnet",
         display_name: "Ethereum",
         chain_id: "1",
-        contract_address: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        contract_address: "0xComingSoon",
       },
       {
         name: "polygon-mainnet",
@@ -21358,7 +21358,7 @@ var k2 = {
   },
   D2 = {
     network: "eip155:1",
-    asset: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    asset: "0xComingSoon",
     metadata: { name: "USD Coin", symbol: "USDC", decimals: 6 },
   },
   q2 = {

@@ -38528,7 +38528,7 @@ var x = {
     presaleAddress: "0x7D5b3308204b74647781611ED7E9A9Dd8325f8B3",
     multicall: "0xca11bde05977b3631167028862be2a173976ca11",
     usdTAddress: "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    usdcAddress: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    usdcAddress: "0xComingSoon",
     rpcURL:
       "https://lingering-sparkling-replica.quiknode.pro/de701af490897c1c85b154924fa7fb8e1eb301f0",
     backupRPC: "https://eth-mainnet.g.alchemy.com/v2/bPdCFAPcjZXkgsXNoka8b",
